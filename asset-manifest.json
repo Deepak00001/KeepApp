@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/keepApp/static/css/main.db69fcbf.chunk.css",
+    "main.js": "/keepApp/static/js/main.f4d9ba5c.chunk.js",
+    "main.js.map": "/keepApp/static/js/main.f4d9ba5c.chunk.js.map",
+    "runtime-main.js": "/keepApp/static/js/runtime-main.db9abcc5.js",
+    "runtime-main.js.map": "/keepApp/static/js/runtime-main.db9abcc5.js.map",
+    "static/js/2.55bc08fa.chunk.js": "/keepApp/static/js/2.55bc08fa.chunk.js",
+    "static/js/2.55bc08fa.chunk.js.map": "/keepApp/static/js/2.55bc08fa.chunk.js.map",
+    "index.html": "/keepApp/index.html",
+    "static/css/main.db69fcbf.chunk.css.map": "/keepApp/static/css/main.db69fcbf.chunk.css.map",
+    "static/js/2.55bc08fa.chunk.js.LICENSE.txt": "/keepApp/static/js/2.55bc08fa.chunk.js.LICENSE.txt",
+    "static/media/keep.e3b4317f.png": "/keepApp/static/media/keep.e3b4317f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9abcc5.js",
+    "static/js/2.55bc08fa.chunk.js",
+    "static/css/main.db69fcbf.chunk.css",
+    "static/js/main.f4d9ba5c.chunk.js"
+  ]
+}
